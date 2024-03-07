@@ -1,9 +1,9 @@
 
 # 📙 E Book App In Flutter
-This app is make for reading online e book i have made this app in flutter if you want to see all Tutorial of This App in video formate follow my.
+<!-- This app is make for reading online e book i have made this app in flutter if you want to see all Tutorial of This App in video formate follow my.
 youtube channel ❤️ 
 <a href="https://www.github.com/MrNitishroy](https://mrnitishroy.github.io/)https://mrnitishroy.github.io](https://www.youtube.com/@flutterhero/videos" target="blank">FlutterHero</a>
-https://www.youtube.com/watch?v=4wOf50R2P9o&t=8147s&ab_channel=Flutterhero
+https://www.youtube.com/watch?v=4wOf50R2P9o&t=8147s&ab_channel=Flutterhero -->
 
 
 
@@ -57,11 +57,11 @@ https://www.youtube.com/watch?v=4wOf50R2P9o&t=8147s&ab_channel=Flutterhero
 
 ## Run Locally
 
-Clone the project
+<!-- Clone the project
 
 ```bash
   git clone https://github.com/MrNitishroy/E-Book-app-In-Flutter
-```
+``` -->
 
 Open project in the vs code
 
@@ -79,7 +79,7 @@ run app
 ![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtpiFeWcFePNVWgQbGKd5E0oj1RnVWLCfhTxYboUSD9f9yjHvV7TXE8UNdZzNHiBfigeW0QzOtzlGqqJ12FuJpcenDMW3EXiij5zvMy4CZROuxr2lFcYVIjMeF52vHPWWj05CIy2RyBD3DRbXyr0vjUpfEq3P0nYOwwJCNVln3GmmBVcjlFY5W7v6Tais/s2604/Banner%202.png)
 
 
-## Authors
+<!-- ## Authors
 
-<a href="https://github.com/mhetrechaitanya" target="blank">Chaitanya Mhetre </a>
+<a href="https://github.com/mhetrechaitanya" target="blank">Chaitanya Mhetre </a> -->
 
